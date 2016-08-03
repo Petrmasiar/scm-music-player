@@ -6,7 +6,7 @@
 #player #baseRight{ width:145px;}
 #player .button{  width:22px; }
 #player #pause{ left:32px; }
-#player #play{ background:url(playBtn.png);left:31px; }
+#player #play{ background:url(https://upload.wikimedia.org/wikipedia/commons/9/9e/Destiny_stargate.png);left:31px; }
 #player #previous{ left:8px; }
 #player #next{ left:55px; }
 #player #title{ left:90px;}
@@ -20,7 +20,7 @@
 #player #seekerSliderBase{ background-color:#666; }
 
 #player #volume{ width:70px; right:33px; }
-#player #volumeSlider{ width:14px; background:url(sizerAndVol.png); }
+#player #volumeSlider{ width:14px; background:url(http://www.jillyjames.com/wp-content/uploads/2014/08/StargateLogo_700.png); }
 
 #playlist,#playlist .module,#playlist h3{ border-color:#333;}
 #playlist .module{  color:#333; background-color:white; }
